@@ -5,7 +5,7 @@ The HackXX2019 Project
 https://yul801.wixsite.com/mysite-2
 
 # App-EXPO
-Why to run: 
+How to run: 
   Download Expo from the app store
   Scan the QR Code on the link: 
   https://expo.io/@devpublicshared/manager
